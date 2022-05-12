@@ -1,6 +1,6 @@
 export const config = {
   "mapTitle": "Press freedom in Europe", // The title of the map, if more than one word, separate by dash, e.g. "income-europe"
-  "vercelURL": "euranet-press-freedom.vercel.app", // The url provided when deploying the map on Vercel
+  "vercelURL": "map-press-freedom.vercel.app", // The url provided when deploying the map on Vercel
   "datasetType": "values", // "values" or "binary"; Does the data set contain numerical values or binary (0/1) values for countries?
   "datasetUnit": "fullNumbers", // "fullNumbers" or "percent"; Is the data in percent (0.25 of GDP) or full numbers (25 people)?
   "colourScheme": "blue", // one of the following: "blue", "purple-blue", "green-blue", "orange-red"
