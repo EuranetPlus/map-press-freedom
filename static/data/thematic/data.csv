@@ -1,38 +1,38 @@
-country,id,value
-Albania,AL,0.33
-Austria,AT,0.13
-Belgium,BE,0.59
-Bulgaria,BG,null
-Switzerland,CH,0.62
-Cyprus,CY,0.21
-Czechia,CZ,0.78
-Germany,DE,0.82
-Denmark,DK,0.56
-Estonia,EE,0.83
-Greece,EL,0.32
-Spain,ES,0.45
-Finland,FI,0.21
-France,FR,0.24
-Croatia,HR,0.45
-Hungary,HU,0.67
-Ireland,IE,0.76
-Iceland,IS,0.44
-Italy,IT,0.92
-Liechtenstein,LI,null
-Lithuania,LT,0.33
-Luxembourg,LU,0.22
-Latvia,LV,0.11
-Montenegro,ME,0.43
-North Macedonia,MK,null
-Malta,MT,0.35
-Netherlands,NL,0.47
-Norway,NO,0.32
-Poland,PL,0.24
-Portugal,PT,0.64
-Romania,RO,0.32
-Serbia,RS,0.67
-Sweden,SE,0.25
-Slovenia,SI,0.45
-Slovakia,SK,0.67
-United Kingdom,UK,null
-Ukraine,UA,0.45
+country	id	value
+Albania	AL	56.41
+Austria	AT	76.74
+Belgium	BE	78.86
+Bulgaria	BG	59.12
+Croatia	HR	70.42
+Cyprus	CY	65.97
+Czechia	CZ	80.54
+Denmark	DK	90.27
+Estonia	EE	88.83
+Finland	FI	88.42
+France	FR	78.53
+Germany	DE	82.04
+Greece	EL	55.52
+Hungary	HU	59.8
+Iceland	IS	82.69
+Ireland	IE	88.3
+Italy	IT	68.16
+Latvia	LV	79.17
+Liechtenstein	LI	84.03
+Lithuania	LT	84.14
+Luxembourg	LU	79.81
+Malta	MT	61.55
+Montenegro	ME	66.54
+Netherlands	NL	77.93
+North Macedonia	MK	68.44
+Norway	NO	92.65
+Poland	PL	65.64
+Portugal	PT	87.07
+Romania	RO	68.46
+Serbia	RS	61.51
+Slovakia	SK	78.37
+Slovenia	SI	68.54
+Spain	ES	76.71
+Sweden	SE	88.84
+Switzerland	CH	82.72
+Ukraine	UA	55.76
+United Kingdom	UK	78.71
