@@ -6,7 +6,7 @@
   "textSourceDescription": "Šaltinis",
   "textSource": "Reporteriai be sienų",
   "textNoteDescription": "Pastaba",
-  "textNote": "Pasaulio spaudos laisvės indekso tikslas – palyginti žurnalistų ir žiniasklaidos spaudos laisvės lygį. Indekso reitingai yra pagrįsti balais nuo 0 iki 100, kuris priskiriamas kiekvienai šaliai ar teritorijai, o 100 yra geriausias galimas balas (didžiausias įmanomas spaudos laisvės lygis), o 0 – blogiausias.",
+  "textNote": "Pasaulio spaudos laisvės indekso tikslas – palyginti žurnalistų ir žiniasklaidos spaudos laisvės lygį. Indekso reitingai yra pagrįsti balais nuo 0 iki 100, kuris priskiriamas kiekvienai šaliai ar teritorijai, o 100 yra geriausias galimas balas (didžiausias galimas spaudos laisvės lygis), o 0 – blogiausias.",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://rsf.org/en"
 }
