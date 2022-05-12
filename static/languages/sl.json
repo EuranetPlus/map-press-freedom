@@ -1,12 +1,12 @@
 {
-  "heading": "Izdatki za izobraževanje so se povečali v vseh državah EU",
-  "subheading": "Državni izdatki za vojaško obrambo kot odstotek BDP v državah Evropske unije leta 2020",
+  "heading": "Svoboda tiska v Evropi",
+  "subheading": "Svoboda tiska je opredeljena kot zmožnost novinarjev kot posameznikov in kolektivov, da izbirajo, proizvajajo in razširjajo novice v javnem interesu neodvisno od političnega, gospodarskega, pravnega in družbenega vmešavanja ter brez groženj njihovi fizični in duševni varnosti.",
   "legend1": "Podatkov ni na voljo",
-  "tooltip1": "BDP",
+  "tooltip1": " ",
   "textSourceDescription": "Vir",
-  "textSource": "Eurostat",
+  "textSource": "Novinarji brez meja",
   "textNoteDescription": "Opomba",
-  "textNote": "Državni izdatki po funkciji in vrsti COFOG (UNSD klasifikacija funkcij vlade, ponovljena v ESR 2010).",
+  "textNote": "Namen Svetovnega indeksa svobode tiska je primerjati raven svobode tiska, ki jo uživajo novinarji in mediji. Razvrstitve v indeksu temeljijo na rezultatih od 0 do 100, ki je dodeljena vsaki državi ali ozemlju, pri čemer je 100 najboljši možni rezultat (najvišja možna raven svobode tiska), 0 pa najslabši.",
   "textDataAccess": "Dostop do podatkov",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }

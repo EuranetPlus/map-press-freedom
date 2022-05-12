@@ -1,12 +1,12 @@
 {
-  "heading": "L-infiq fl-edukazzjoni jiżdied fil-pajjiżi kollha tal-UE",
-  "subheading": "In-nefqa ġenerali tal-gvern fuq id-difiża militari bħala perċentwal tal-PGD fil-pajjiżi tal-Unjoni Ewropea fl-2020",
+  "heading": "Il-Libertà tal-Istampa fl-Ewropa",
+  "subheading": "Il-libertà tal-istampa hija definita bħala l-kapaċità tal-ġurnalisti bħala individwi u kollettivi li jagħżlu, jipproduċu, u jxerrdu aħbarijiet fl-interess pubbliku indipendenti mill-indħil politiku, ekonomiku, legali u soċjali u fin-nuqqas ta’ theddid għas-sigurtà fiżika u mentali tagħhom.",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "tal-PGD",
+  "tooltip1": " ",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "Reporters mingħajr fruntieri",
   "textNoteDescription": "Nota",
-  "textNote": "Nefqa tal-gvern skont il-funzjoni u t-tip tal-COFOG (klassifikazzjoni UNSD tal-funzjonijiet tal-gvern, replikata fl-ESA2010).",
+  "textNote": "L-iskop tal-World Press Freedom Index huwa li jqabbel il-livell ta’ libertà tal-istampa li jgawdu l-ġurnalisti u l-midja. Il-klassifikazzjonijiet tal-Indiċi huma bbażati fuq punteġġ li jvarja minn 0 sa 100 li huwa assenjat għal kull pajjiż jew territorju, b’100 ikun l-aħjar punteġġ possibbli (l-ogħla livell possibbli ta’ libertà tal-istampa) u 0 l-agħar.",
   "textDataAccess": "Aċċessa għad-data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }

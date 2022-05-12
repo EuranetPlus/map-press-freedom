@@ -1,12 +1,12 @@
 {
-  "heading": "Izglītības izdevumi visās ES valstīs",
-  "subheading": "Vispārējie valdības izdevumi militārajai aizsardzībai procentos no IKP Eiropas Savienības valstīs 2020. gadā",
+  "heading": "Preses brīvība Eiropā",
+  "subheading": "Preses brīvība ir definēta kā žurnālistu kā indivīdu un kolektīvu spēja atlasīt, ražot un izplatīt ziņas sabiedrības interesēs neatkarīgi no politiskas, ekonomiskas, tiesiskas un sociālas iejaukšanās un neapdraudot viņu fizisko un garīgo drošību.",
   "legend1": "Nav pieejami dati",
-  "tooltip1": "no IKP",
+  "tooltip1": " ",
   "textSourceDescription": "Avots",
-  "textSource": "Eurostat",
+  "textSource": "Reportieri bez robežām",
   "textNoteDescription": "Piezīme",
-  "textNote": "Valdības izdevumi pēc COFOG (UNSD valdības funkciju klasifikācija, replicēta EKS2010) funkcijas un veida.",
+  "textNote": "Pasaules preses brīvības indeksa mērķis ir salīdzināt žurnālistu un mediju preses brīvības līmeni. Indeksa reitingi ir balstīti uz punktu skaitu no 0 līdz 100, kas tiek piešķirts katrai valstij vai teritorijai, kur 100 ir labākais iespējamais rezultāts (augstākais iespējamais preses brīvības līmenis) un 0 sliktākais.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }

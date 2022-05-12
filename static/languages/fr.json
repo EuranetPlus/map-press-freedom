@@ -1,12 +1,12 @@
 {
-  "heading": "Les dépenses d'éducation augmentent dans tous les pays de l'UE",
-  "subheading": "Dépenses publiques de défense militaire en pourcentage du PIB dans les pays de l'Union européenne en 2020",
+  "heading": "La liberté de la presse en Europe",
+  "subheading": "La liberté de la presse est définie comme la capacité des journalistes en tant qu'individus et collectifs à sélectionner, produire et diffuser des informations dans l'intérêt public indépendamment de toute ingérence politique, économique, juridique et sociale et en l'absence de menaces pour leur sécurité physique et mentale.",
   "legend1": "Pas de données disponibles",
-  "tooltip1": "du PIB",
+  "tooltip1": " ",
   "textSourceDescription": "La source",
-  "textSource": "Eurostat",
+  "textSource": "Reporters sans frontières",
   "textNoteDescription": "Noter",
-  "textNote": "Dépenses publiques par COFOG (Classification UNSD des fonctions du gouvernement, reproduite dans le SEC 2010) fonction et type.",
+  "textNote": "L'objectif de l'Indice mondial de la liberté de la presse est de comparer le niveau de liberté de la presse dont jouissent les journalistes et les médias. Le classement de l'Indice est basé sur un score allant de 0 à 100 qui est attribué à chaque pays ou territoire, 100 étant le meilleur score possible (le niveau de liberté de la presse le plus élevé possible) et 0 le pire.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/fr"
 }

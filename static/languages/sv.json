@@ -1,12 +1,12 @@
 {
-  "heading": "Utgifterna för utbildning ökar i alla EU-länder",
-  "subheading": "Offentliga utgifter för militärt försvar i procent av BNP i länder i Europeiska unionen 2020",
+  "heading": "Pressfrihet i Europa",
+  "subheading": "Pressfrihet definieras som journalisters förmåga som individer och kollektiv att välja, producera och sprida nyheter i allmänhetens intresse oberoende av politisk, ekonomisk, juridisk och social inblandning och i frånvaro av hot mot deras fysiska och mentala säkerhet.",
   "legend1": "Ingen data tillgänglig",
-  "tooltip1": "av BNP",
+  "tooltip1": " ",
   "textSourceDescription": "Källa",
-  "textSource": "Eurostat",
+  "textSource": "Reportrar utan gränser",
   "textNoteDescription": "Notera",
-  "textNote": "Offentliga utgifter efter COFOG (UNSD-klassificering av statliga funktioner, replikerad i ESA2010) funktion och typ.",
+  "textNote": "Syftet med World Press Freedom Index är att jämföra nivån på pressfrihet som journalister och media åtnjuter. Indexets rankning baseras på en poäng som sträcker sig från 0 till 100 som tilldelas varje land eller territorium, där 100 är bästa möjliga poäng (högsta möjliga nivå av pressfrihet) och 0 den sämsta.",
   "textDataAccess": "Få åtkomst till data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }

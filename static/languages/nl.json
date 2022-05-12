@@ -1,12 +1,12 @@
 {
-  "heading": "Onderwijsuitgaven stijgen in alle EU-landen",
-  "subheading": "Algemene overheidsuitgaven voor militaire defensie als percentage van het BBP in landen van de Europese Unie in 2020",
+  "heading": "Persvrijheid in Europa",
+  "subheading": "Persvrijheid wordt gedefinieerd als het vermogen van journalisten als individuen en collectieven om nieuws in het algemeen belang te selecteren, te produceren en te verspreiden, onafhankelijk van politieke, economische, juridische en sociale inmenging en in afwezigheid van bedreigingen voor hun fysieke en mentale veiligheid.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "van het BBP",
+  "tooltip1": " ",
   "textSourceDescription": "Bron",
-  "textSource": "Eurostat",
+  "textSource": "Verslaggevers zonder grenzen",
   "textNoteDescription": "Opmerking",
-  "textNote": "Overheidsuitgaven volgens COFOG (UNSD-classificatie van overheidsfuncties, gerepliceerd in ESR2010) functie en type.",
+  "textNote": "Het doel van de World Press Freedom Index is om het niveau van persvrijheid van journalisten en media te vergelijken. De ranglijst van de Index is gebaseerd op een score van 0 tot 100 die wordt toegekend aan elk land of gebied, waarbij 100 de best mogelijke score is (het hoogst mogelijke niveau van persvrijheid) en 0 de slechtste.",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }

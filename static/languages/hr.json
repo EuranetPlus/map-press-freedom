@@ -1,12 +1,12 @@
 {
-  "heading": "Potrošnja na obrazovanje raste u svim zemljama EU",
-  "subheading": "Rashodi opće države za vojnu obranu kao postotak BDP-a u zemljama Europske unije u 2020.",
+  "heading": "Sloboda tiska u Europi",
+  "subheading": "Sloboda tiska definira se kao sposobnost novinara kao pojedinaca i kolektiva da biraju, proizvode i šire vijesti u javnom interesu neovisno o političkom, gospodarskom, pravnom i društvenom uplittanju iu odsutnosti prijetnji njihovoj fizičkoj i psihičkoj sigurnosti.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "BDP-a",
+  "tooltip1": " ",
   "textSourceDescription": "Izvor",
-  "textSource": "Eurostat",
+  "textSource": "Novinari bez granica",
   "textNoteDescription": "Bilješka",
-  "textNote": "Državni rashodi prema funkciji i vrsti COFOG (UNSD klasifikacija funkcija vlade, replicirana u ESA2010).",
+  "textNote": "Svrha Svjetskog indeksa slobode medija je usporediti razinu slobode medija koju uživaju novinari i mediji. Indexove ljestvice temelje se na ocjeni u rasponu od 0 do 100 koja se dodjeljuje svakoj zemlji ili teritoriju, pri čemu je 100 najbolji mogući rezultat (najviša moguća razina slobode medija), a 0 najgora.",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=hr"
+  "linkDataAccess": "https://rsf.org/en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Koulutusmenot kasvavat kaikissa EU-maissa",
-  "subheading": "Julkiset menot sotilaalliseen puolustukseen suhteessa BKT:hen Euroopan unionin maissa vuonna 2020",
+  "heading": "Lehdistönvapaus Euroopassa",
+  "subheading": "Lehdistönvapaus määritellään toimittajien kyvyksi yksilöinä ja kollektiiveina valita, tuottaa ja levittää uutisia yleisen edun mukaisesti riippumatta poliittisesta, taloudellisesta, oikeudellisesta ja yhteiskunnallisesta puuttumisesta ja ilman, että heidän fyysistä ja henkistä turvallisuuttaan uhkaa.",
   "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "BKT:sta",
+  "tooltip1": " ",
   "textSourceDescription": "Lähde",
-  "textSource": "Eurostat",
+  "textSource": "Toimittajat ilman rajoja",
   "textNoteDescription": "Huomautus",
-  "textNote": "Julkiset menot COFOG:n (UNSD:n julkishallinnon toimintojen luokittelu, jäljennetty EKT2010:ssä) toiminnon ja tyypin mukaan.",
+  "textNote": "World Press Freedom Indexin tarkoituksena on vertailla toimittajien ja median lehdistönvapauden tasoa. Indeksin sijoitukset perustuvat 0–100 pistemäärään, joka on jaettu kullekin maalle tai alueelle, jossa 100 on paras mahdollinen pistemäärä (korkein mahdollinen lehdistönvapauden taso) ja 0 huonoin.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=fi"
+  "linkDataAccess": "https://rsf.org/en"
 }

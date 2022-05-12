@@ -1,12 +1,12 @@
 {
-  "heading": "Výdaje na vzdělávání ve všech zemích EU",
-  "subheading": "Vládní výdaje na vojenskou obranu jako procento HDP v zemích Evropské unie v roce 2020",
+  "heading": "Svoboda tisku v Evropě",
+  "subheading": "Svoboda tisku je definována jako schopnost novinářů jako jednotlivců a kolektivů vybírat, produkovat a šířit zprávy ve veřejném zájmu nezávisle na politických, ekonomických, právních a společenských vlivech a bez ohrožení jejich fyzické a duševní bezpečnosti.",
   "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "HDP",
+  "tooltip1": " ",
   "textSourceDescription": "Zdroj",
-  "textSource": "Eurostat",
+  "textSource": "Reportéři bez hranic",
   "textNoteDescription": "Poznámka",
-  "textNote": "Vládní výdaje podle funkce a typu COFOG (klasifikace funkcí vlády UNSD, replikovaná v ESA2010).",
+  "textNote": "Účelem World Press Freedom Index je porovnat míru svobody tisku, kterou požívají novináři a média. Hodnocení Indexu je založeno na skóre v rozmezí od 0 do 100, které je přiřazeno každé zemi nebo území, přičemž 100 je nejlepší možné skóre (nejvyšší možná úroveň svobody tisku) a 0 nejhorší.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=cs"
+  "linkDataAccess": "https://rsf.org/en"
 }

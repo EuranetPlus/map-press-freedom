@@ -1,12 +1,12 @@
 {
-  "heading": "Az oktatási kiadások az EU összes országában emelkednek",
-  "subheading": "Az államháztartás katonai védelemre fordított kiadásai a GDP százalékában az Európai Unió országaiban 2020-ban",
+  "heading": "Sajtószabadság Európában",
+  "subheading": "A sajtószabadság az újságírók magánszemélyként és kollektívaként való azon képessége, hogy politikai, gazdasági, jogi és társadalmi beavatkozástól függetlenül, valamint testi és lelki biztonságukat fenyegető veszélyek nélkül közérdekű híreket válasszanak, készítsenek és terjesszenek.",
   "legend1": "Nincs elérhető adat",
-  "tooltip1": "a GDP",
+  "tooltip1": " ",
   "textSourceDescription": "Forrás",
-  "textSource": "Eurostat",
+  "textSource": "Riporterek határok nélkül",
   "textNoteDescription": "jegyzet",
-  "textNote": "Kormányzati kiadások COFOG (UNSD Classification of Government Functions, replikálva az ESA2010-ben) funkció és típus szerint.",
+  "textNote": "A World Press Freedom Index célja, hogy összehasonlítsa az újságírók és a média sajtószabadságának szintjét. Az Index rangsorolása 0-tól 100-ig terjedő pontszámon alapul, amelyet minden országhoz vagy területhez rendelnek, ahol a 100 a lehető legjobb pontszám (a sajtószabadság lehető legmagasabb szintje), a 0 pedig a legrosszabb.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }

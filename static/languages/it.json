@@ -1,12 +1,12 @@
 {
-  "heading": "Spesa per l'istruzione in aumento in tutti i paesi dell'UE",
-  "subheading": "Spesa delle amministrazioni pubbliche per la difesa militare in percentuale del PIL nei paesi dell'Unione Europea nel 2020",
+  "heading": "Libertà di stampa in Europa",
+  "subheading": "La libertà di stampa è definita come la capacità dei giornalisti in quanto individui e collettività di selezionare, produrre e diffondere notizie nell'interesse pubblico indipendentemente da interferenze politiche, economiche, legali e sociali e in assenza di minacce alla loro sicurezza fisica e mentale.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "del PIL",
+  "tooltip1": " ",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Reporter senza frontiere",
   "textNoteDescription": "Nota",
-  "textNote": "Spesa pubblica per funzione e tipologia COFOG (classificazione UNSD delle funzioni di governo, replicata in ESA2010).",
+  "textNote": "Lo scopo del World Press Freedom Index è confrontare il livello di libertà di stampa di cui godono giornalisti e media. Le classifiche dell'Indice si basano su un punteggio che va da 0 a 100 assegnato a ciascun paese o territorio, dove 100 rappresenta il miglior punteggio possibile (il più alto livello possibile di libertà di stampa) e 0 il peggiore.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }

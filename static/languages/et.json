@@ -1,12 +1,12 @@
 {
-  "heading": "Hariduskulud kõigis ELi riikides",
-  "subheading": "Valitsussektori kulutused sõjalisele kaitsele protsendina SKTst Euroopa Liidu riikides 2020. aastal",
+  "heading": "Pressivabadus Euroopas",
+  "subheading": "Ajakirjandusvabadus on defineeritud kui ajakirjanike kui üksikisikute ja kollektiivide võime valida, toota ja levitada uudiseid avalikes huvides, sõltumata poliitilisest, majanduslikust, õiguslikust ja sotsiaalsest sekkumisest ning ilma ohuta nende füüsilisele ja vaimsele turvalisusele.",
   "legend1": "Andmed puuduvad",
-  "tooltip1": "SKTst",
+  "tooltip1": " ",
   "textSourceDescription": "Allikas",
-  "textSource": "Eurostat",
+  "textSource": "Piirideta reporterid",
   "textNoteDescription": "Märge",
-  "textNote": "Valitsemissektori kulud COFOG-i (UNSD klassifikatsioon valitsusfunktsioonide klassifikatsioonist, korratud ESA2010-s) funktsiooni ja tüübi järgi.",
+  "textNote": "Maailma ajakirjandusvabaduse indeksi eesmärk on võrrelda ajakirjanike ja meedia ajakirjandusvabaduse taset. Indeksi pingeread põhinevad skooril vahemikus 0 kuni 100, mis määratakse igale riigile või territooriumile, kusjuures 100 on parim võimalik tulemus (kõrgeim võimalik ajakirjandusvabaduse tase) ja 0 halvim.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }

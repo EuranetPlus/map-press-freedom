@@ -1,12 +1,12 @@
 {
-  "heading": "Wzrost wydatków na edukację we wszystkich krajach UE",
-  "subheading": "Wydatki sektora instytucji rządowych i samorządowych na obronę wojskową jako procent PKB w krajach Unii Europejskiej w 2020 roku",
+  "heading": "Wolność prasy w Europie",
+  "subheading": "Wolność prasy jest definiowana jako zdolność dziennikarzy jako jednostek i zbiorowości do wybierania, tworzenia i rozpowszechniania wiadomości w interesie publicznym niezależnie od ingerencji politycznej, ekonomicznej, prawnej i społecznej oraz przy braku zagrożeń dla ich bezpieczeństwa fizycznego i psychicznego.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "PKB",
+  "tooltip1": " ",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostat",
+  "textSource": "Reporterzy bez granic",
   "textNoteDescription": "Notatka",
-  "textNote": "Wydatki rządowe według COFOG (klasyfikacja funkcji rządu według UNSD, powtórzona w ESA2010) funkcji i rodzaju.",
+  "textNote": "Celem World Press Freedom Index jest porównanie poziomu wolności prasy, jakim cieszą się dziennikarze i media. Rankingi Indeksu opierają się na wyniku od 0 do 100, który jest przypisany do każdego kraju lub terytorium, przy czym 100 to najlepszy możliwy wynik (najwyższy możliwy poziom wolności prasy), a 0 najgorszy.",
   "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }

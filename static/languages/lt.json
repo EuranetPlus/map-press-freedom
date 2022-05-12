@@ -1,12 +1,12 @@
 {
-  "heading": "Išlaidos švietimui visose ES šalyse",
-  "subheading": "Bendrosios valdžios išlaidos karinei gynybai procentais nuo BVP Europos Sąjungos šalyse 2020 m",
+  "heading": "Spaudos laisvė Europoje",
+  "subheading": "Spaudos laisvė apibrėžiama kaip žurnalistų, kaip individų ir kolektyvų, galimybė atrinkti, rengti ir skleisti naujienas visuomenės labui, nepriklausomai nuo politinio, ekonominio, teisinio ir socialinio kišimosi, ir kai nėra grėsmės jų fiziniam ir psichiniam saugumui.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "BVP",
+  "tooltip1": " ",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Eurostatas",
+  "textSource": "Reporteriai be sienų",
   "textNoteDescription": "Pastaba",
-  "textNote": "Valdžios išlaidos pagal COFOG (UNSD vyriausybės funkcijų klasifikatorius, pakartotas ESS2010) funkciją ir tipą.",
+  "textNote": "Pasaulio spaudos laisvės indekso tikslas – palyginti žurnalistų ir žiniasklaidos spaudos laisvės lygį. Indekso reitingai yra pagrįsti balais nuo 0 iki 100, kuris priskiriamas kiekvienai šaliai ar teritorijai, o 100 yra geriausias galimas balas (didžiausias įmanomas spaudos laisvės lygis), o 0 – blogiausias.",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }

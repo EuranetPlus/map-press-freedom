@@ -1,12 +1,12 @@
 {
-  "heading": "Bildungsausgaben in allen EU-Ländern gestiegen",
-  "subheading": "Staatliche Verteidigungsausgaben in Prozent des BIP in den Ländern der Europäischen Union im Jahr 2020",
+  "heading": "Pressefreiheit in Europa",
+  "subheading": "Pressefreiheit ist definiert als die Fähigkeit von Journalisten als Einzelpersonen und Kollektive, Nachrichten im öffentlichen Interesse auszuwählen, zu produzieren und zu verbreiten, unabhängig von politischen, wirtschaftlichen, rechtlichen und sozialen Eingriffen und ohne Bedrohung ihrer körperlichen und geistigen Sicherheit.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "des BIP",
+  "tooltip1": " ",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat",
+  "textSource": "Reporter ohne Grenzen",
   "textNoteDescription": "Notiz",
-  "textNote": "Staatsausgaben nach Funktion und Art der COFOG (UNSD-Klassifikation der Staatsfunktionen, repliziert im ESVG 2010).",
+  "textNote": "Der Zweck des World Press Freedom Index besteht darin, das Niveau der Pressefreiheit von Journalisten und Medien zu vergleichen. Die Rankings des Index basieren auf einer Punktzahl zwischen 0 und 100, die jedem Land oder Territorium zugewiesen wird, wobei 100 die bestmögliche Punktzahl (das höchstmögliche Maß an Pressefreiheit) und 0 die schlechteste ist.",
   "textDataAccess": "Greifen Sie auf die Daten zu",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://rsf.org/en"
 }
