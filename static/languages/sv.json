@@ -1,12 +1,12 @@
 {
-  "heading": "Pressfrihet i Europa",
+  "heading": "Hur är situationen för pressfriheten i Europa?",
   "subheading": "Pressfrihet definieras som journalisters förmåga som individer och kollektiv att välja, producera och sprida nyheter i allmänhetens intresse oberoende av politisk, ekonomisk, juridisk och social inblandning och i frånvaro av hot mot deras fysiska och mentala säkerhet.",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": " ",
   "textSourceDescription": "Källa",
   "textSource": "Reportrar utan gränser",
   "textNoteDescription": "Notera",
-  "textNote": "Syftet med World Press Freedom Index är att jämföra nivån på pressfrihet som journalister och media åtnjuter. Indexets rankning baseras på en poäng som sträcker sig från 0 till 100 som tilldelas varje land eller territorium, där 100 är bästa möjliga poäng (högsta möjliga nivå av pressfrihet) och 0 den sämsta.",
+  "textNote": "Syftet med World Press Freedom Index är att jämföra nivån på pressfrihet som journalister och media åtnjuter. Indexets ranking är baserad på en poäng som sträcker sig från 0 till 100 som tilldelas varje land eller territorium, där 100 är bästa möjliga poäng (högsta möjliga nivå av pressfrihet) och 0 den sämsta.",
   "textDataAccess": "Få åtkomst till data",
-  "linkDataAccess": "https://rsf.org/en"
+  "linkDataAccess": "https://rsf.org/en/index"
 }

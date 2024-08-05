@@ -1,12 +1,12 @@
 {
-  "heading": "Liberdade de imprensa na Europa",
-  "subheading": "A liberdade de imprensa é definida como a capacidade dos jornalistas como indivíduos e coletivos de selecionar, produzir e divulgar notícias de interesse público, independentemente de interferência política, econômica, legal e social e na ausência de ameaças à sua segurança física e mental.",
-  "legend1": "Nenhum dado disponível",
+  "heading": "Como está a situação da liberdade de imprensa na Europa?",
+  "subheading": "A liberdade de imprensa é definida como a capacidade dos jornalistas, enquanto indivíduos e colectivos, de seleccionar, produzir e divulgar notícias no interesse público, independentemente de interferências políticas, económicas, jurídicas e sociais e na ausência de ameaças à sua segurança física e mental.",
+  "legend1": "Não há dados disponíveis",
   "tooltip1": " ",
   "textSourceDescription": "Fonte",
   "textSource": "Repórteres sem fronteiras",
   "textNoteDescription": "Observação",
-  "textNote": "O objetivo do Índice Mundial de Liberdade de Imprensa é comparar o nível de liberdade de imprensa desfrutado por jornalistas e meios de comunicação. As classificações do Índice são baseadas em uma pontuação de 0 a 100 que é atribuída a cada país ou território, sendo 100 a melhor pontuação possível (o nível mais alto possível de liberdade de imprensa) e 0 a pior.",
+  "textNote": "O objetivo do Índice Mundial de Liberdade de Imprensa é comparar o nível de liberdade de imprensa de que gozam os jornalistas e os meios de comunicação social. As classificações do Índice baseiam-se numa pontuação que varia de 0 a 100, atribuída a cada país ou território, sendo 100 a melhor pontuação possível (o nível mais elevado possível de liberdade de imprensa) e 0 a pior.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://rsf.org/en"
+  "linkDataAccess": "https://rsf.org/en/index"
 }

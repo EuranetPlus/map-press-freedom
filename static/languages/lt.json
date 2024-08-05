@@ -1,12 +1,12 @@
 {
-  "heading": "Spaudos laisvė Europoje",
+  "heading": "Kokia spaudos laisvės padėtis Europoje?",
   "subheading": "Spaudos laisvė apibrėžiama kaip žurnalistų, kaip individų ir kolektyvų, galimybė atrinkti, rengti ir skleisti naujienas visuomenės labui, nepriklausomai nuo politinio, ekonominio, teisinio ir socialinio kišimosi, ir kai nėra grėsmės jų fiziniam ir psichiniam saugumui.",
   "legend1": "Nėra duomenų",
   "tooltip1": " ",
   "textSourceDescription": "Šaltinis",
   "textSource": "Reporteriai be sienų",
   "textNoteDescription": "Pastaba",
-  "textNote": "Pasaulio spaudos laisvės indekso tikslas – palyginti žurnalistų ir žiniasklaidos spaudos laisvės lygį. Indekso reitingai yra pagrįsti balais nuo 0 iki 100, kuris priskiriamas kiekvienai šaliai ar teritorijai, o 100 yra geriausias galimas balas (didžiausias galimas spaudos laisvės lygis), o 0 – blogiausias.",
+  "textNote": "Pasaulio spaudos laisvės indekso tikslas – palyginti žurnalistų ir žiniasklaidos spaudos laisvės lygį. Indekso reitingai yra pagrįsti balais nuo 0 iki 100, kuris priskiriamas kiekvienai šaliai ar teritorijai, o 100 yra geriausias galimas balas (didžiausias įmanomas spaudos laisvės lygis), o 0 – blogiausias.",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://rsf.org/en"
+  "linkDataAccess": "https://rsf.org/en/index"
 }

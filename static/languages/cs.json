@@ -1,6 +1,6 @@
 {
-  "heading": "Svoboda tisku v Evropě",
-  "subheading": "Svoboda tisku je definována jako schopnost novinářů jako jednotlivců a kolektivů vybírat, produkovat a šířit zprávy ve veřejném zájmu nezávisle na politických, ekonomických, právních a společenských vlivech a bez ohrožení jejich fyzické a duševní bezpečnosti.",
+  "heading": "Jaká je situace v oblasti svobody tisku v Evropě?",
+  "subheading": "Svoboda tisku je definována jako schopnost novinářů jako jednotlivců a kolektivů vybírat, produkovat a šířit zprávy ve veřejném zájmu nezávisle na politickém, ekonomickém, právním a sociálním zasahování a bez ohrožení jejich fyzické a duševní bezpečnosti.",
   "legend1": "Nejsou k dispozici žádné údaje",
   "tooltip1": " ",
   "textSourceDescription": "Zdroj",
@@ -8,5 +8,5 @@
   "textNoteDescription": "Poznámka",
   "textNote": "Účelem World Press Freedom Index je porovnat míru svobody tisku, kterou požívají novináři a média. Hodnocení Indexu je založeno na skóre v rozmezí od 0 do 100, které je přiřazeno každé zemi nebo území, přičemž 100 je nejlepší možné skóre (nejvyšší možná úroveň svobody tisku) a 0 nejhorší.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://rsf.org/en"
+  "linkDataAccess": "https://rsf.org/en/index"
 }

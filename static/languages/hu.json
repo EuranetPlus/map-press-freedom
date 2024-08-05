@@ -1,12 +1,12 @@
 {
-  "heading": "Sajtószabadság Európában",
-  "subheading": "A sajtószabadság az újságírók magánszemélyként és kollektívaként való azon képessége, hogy politikai, gazdasági, jogi és társadalmi beavatkozástól függetlenül, valamint testi és lelki biztonságukat fenyegető veszélyek nélkül közérdekű híreket válasszanak, készítsenek és terjesszenek.",
+  "heading": "Milyen a sajtószabadság helyzete Európában?",
+  "subheading": "A sajtószabadság az újságírók magánszemélyként és kollektívaként való azon képessége, hogy politikai, gazdasági, jogi és társadalmi beavatkozástól függetlenül, valamint testi és lelki biztonságukat fenyegető veszélyek nélkül a közérdekből válogatjanak, készítsenek és terjesszenek híreket.",
   "legend1": "Nincs elérhető adat",
   "tooltip1": " ",
   "textSourceDescription": "Forrás",
   "textSource": "Riporterek határok nélkül",
   "textNoteDescription": "jegyzet",
-  "textNote": "A World Press Freedom Index célja, hogy összehasonlítsa az újságírók és a média sajtószabadságának szintjét. Az Index rangsorolása 0-tól 100-ig terjedő pontszámon alapul, amelyet minden országhoz vagy területhez rendelnek, ahol a 100 a lehető legjobb pontszám (a sajtószabadság lehető legmagasabb szintje), a 0 pedig a legrosszabb.",
+  "textNote": "A World Press Freedom Index célja, hogy összehasonlítsa az újságírók és a média által élvezett sajtószabadság szintjét. Az Index rangsorolása 0-tól 100-ig terjedő pontszámon alapul, amelyet minden országhoz vagy területhez rendelnek, ahol a 100 a lehető legjobb pontszám (a sajtószabadság lehető legmagasabb szintje), a 0 pedig a legrosszabb.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://rsf.org/en"
+  "linkDataAccess": "https://rsf.org/en/index"
 }

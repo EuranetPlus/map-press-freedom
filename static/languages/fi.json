@@ -1,12 +1,12 @@
 {
-  "heading": "Lehdistönvapaus Euroopassa",
-  "subheading": "Lehdistönvapaus määritellään toimittajien kyvyksi yksilöinä ja kollektiiveina valita, tuottaa ja levittää uutisia yleisen edun mukaisesti riippumatta poliittisesta, taloudellisesta, oikeudellisesta ja yhteiskunnallisesta puuttumisesta ja ilman, että heidän fyysistä ja henkistä turvallisuuttaan uhkaa.",
+  "heading": "Millainen on lehdistönvapauden tilanne Euroopassa?",
+  "subheading": "Lehdistönvapaus määritellään toimittajien yksilönä ja kollektiivina kyvyksi valita, tuottaa ja levittää uutisia yleisen edun mukaisesti riippumatta poliittisesta, taloudellisesta, oikeudellisesta ja sosiaalisesta puuttumisesta ja ilman, että heidän fyysistä ja henkistä turvallisuuttaan uhkaa.",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": " ",
   "textSourceDescription": "Lähde",
   "textSource": "Toimittajat ilman rajoja",
   "textNoteDescription": "Huomautus",
-  "textNote": "World Press Freedom Indexin tarkoituksena on vertailla toimittajien ja median lehdistönvapauden tasoa. Indeksin sijoitukset perustuvat 0–100 pistemäärään, joka on jaettu kullekin maalle tai alueelle, jossa 100 on paras mahdollinen pistemäärä (korkein mahdollinen lehdistönvapauden taso) ja 0 huonoin.",
+  "textNote": "World Press Freedom Indexin tarkoituksena on vertailla toimittajien ja median lehdistönvapauden tasoa. Indeksin sijoitukset perustuvat 0–100 pistemäärään, joka annetaan kullekin maalle tai alueelle, jossa 100 on paras mahdollinen pistemäärä (korkein mahdollinen lehdistönvapaus) ja 0 huonoin.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://rsf.org/en"
+  "linkDataAccess": "https://rsf.org/en/index"
 }

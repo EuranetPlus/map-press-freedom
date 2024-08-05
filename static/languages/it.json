@@ -1,12 +1,12 @@
 {
-  "heading": "Libertà di stampa in Europa",
-  "subheading": "La libertà di stampa è definita come la capacità dei giornalisti in quanto individui e collettività di selezionare, produrre e diffondere notizie nell'interesse pubblico indipendentemente da interferenze politiche, economiche, legali e sociali e in assenza di minacce alla loro sicurezza fisica e mentale.",
+  "heading": "Com’è la situazione della libertà di stampa in Europa?",
+  "subheading": "La libertà di stampa è definita come la capacità dei giornalisti, come individui e collettivi, di selezionare, produrre e diffondere notizie nell’interesse pubblico indipendentemente da interferenze politiche, economiche, legali e sociali e in assenza di minacce alla loro sicurezza fisica e mentale.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": " ",
   "textSourceDescription": "Fonte",
   "textSource": "Reporter senza frontiere",
   "textNoteDescription": "Nota",
-  "textNote": "Lo scopo del World Press Freedom Index è confrontare il livello di libertà di stampa di cui godono giornalisti e media. Le classifiche dell'Indice si basano su un punteggio che va da 0 a 100 assegnato a ciascun paese o territorio, dove 100 rappresenta il miglior punteggio possibile (il più alto livello possibile di libertà di stampa) e 0 il peggiore.",
+  "textNote": "Lo scopo del World Press Freedom Index è quello di confrontare il livello di libertà di stampa di cui godono giornalisti e media. Le classifiche dell’Indice si basano su un punteggio compreso tra 0 e 100 assegnato a ciascun paese o territorio, dove 100 è il miglior punteggio possibile (il livello più alto possibile di libertà di stampa) e 0 il peggiore.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://rsf.org/en"
+  "linkDataAccess": "https://rsf.org/en/index"
 }

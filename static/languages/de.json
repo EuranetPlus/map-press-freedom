@@ -1,12 +1,12 @@
 {
-  "heading": "Pressefreiheit in Europa",
-  "subheading": "Pressefreiheit ist definiert als die Fähigkeit von Journalisten als Einzelpersonen und Kollektive, Nachrichten im öffentlichen Interesse auszuwählen, zu produzieren und zu verbreiten, unabhängig von politischen, wirtschaftlichen, rechtlichen und sozialen Eingriffen und ohne Bedrohung ihrer körperlichen und geistigen Sicherheit.",
+  "heading": "Wie ist die Lage der Pressefreiheit in Europa?",
+  "subheading": "Unter Pressefreiheit versteht man die Fähigkeit von Journalisten, als Einzelpersonen und Kollektive Nachrichten im öffentlichen Interesse auszuwählen, zu produzieren und zu verbreiten, unabhängig von politischen, wirtschaftlichen, rechtlichen und sozialen Eingriffen und ohne dass ihre körperliche und geistige Sicherheit bedroht ist.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": " ",
   "textSourceDescription": "Quelle",
   "textSource": "Reporter ohne Grenzen",
   "textNoteDescription": "Notiz",
-  "textNote": "Der Zweck des World Press Freedom Index besteht darin, das Niveau der Pressefreiheit von Journalisten und Medien zu vergleichen. Die Rankings des Index basieren auf einer Punktzahl zwischen 0 und 100, die jedem Land oder Territorium zugewiesen wird, wobei 100 die bestmögliche Punktzahl (das höchstmögliche Maß an Pressefreiheit) und 0 die schlechteste ist.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
-  "linkDataAccess": "https://rsf.org/en"
+  "textNote": "Der Zweck des Weltindex der Pressefreiheit besteht darin, das Niveau der Pressefreiheit für Journalisten und Medien zu vergleichen. Die Rangfolge des Index basiert auf einer Punktzahl von 0 bis 100, die jedem Land oder Gebiet zugewiesen wird, wobei 100 die bestmögliche Punktzahl (das höchstmögliche Niveau der Pressefreiheit) und 0 die schlechteste ist.",
+  "textDataAccess": "Zugriff auf die Daten",
+  "linkDataAccess": "https://rsf.org/en/index"
 }

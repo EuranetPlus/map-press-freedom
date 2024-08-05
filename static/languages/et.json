@@ -1,12 +1,12 @@
 {
-  "heading": "Pressivabadus Euroopas",
+  "heading": "Milline on ajakirjandusvabaduse olukord Euroopas?",
   "subheading": "Ajakirjandusvabadus on defineeritud kui ajakirjanike kui üksikisikute ja kollektiivide võime valida, toota ja levitada uudiseid avalikes huvides, sõltumata poliitilisest, majanduslikust, õiguslikust ja sotsiaalsest sekkumisest ning ilma ohuta nende füüsilisele ja vaimsele turvalisusele.",
   "legend1": "Andmed puuduvad",
   "tooltip1": " ",
   "textSourceDescription": "Allikas",
   "textSource": "Piirideta reporterid",
   "textNoteDescription": "Märge",
-  "textNote": "Maailma ajakirjandusvabaduse indeksi eesmärk on võrrelda ajakirjanike ja meedia ajakirjandusvabaduse taset. Indeksi pingeread põhinevad skooril vahemikus 0 kuni 100, mis määratakse igale riigile või territooriumile, kusjuures 100 on parim võimalik tulemus (kõrgeim võimalik ajakirjandusvabaduse tase) ja 0 halvim.",
+  "textNote": "Maailma ajakirjandusvabaduse indeksi eesmärk on võrrelda ajakirjanike ja meedia ajakirjandusvabaduse taset. Indeksi pingeread põhinevad igale riigile või territooriumile määratud skooril vahemikus 0 kuni 100, kusjuures 100 on parim võimalik tulemus (kõrgeim võimalik ajakirjandusvabaduse tase) ja 0 halvim.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://rsf.org/en"
+  "linkDataAccess": "https://rsf.org/en/index"
 }
