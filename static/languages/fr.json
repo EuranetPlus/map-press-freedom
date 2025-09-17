@@ -1,12 +1,12 @@
 {
   "heading": "Quelle est la situation de la liberté de la presse en Europe ?",
-  "subheading": "La liberté de la presse est définie comme la capacité des journalistes, en tant qu'individus et collectifs, à sélectionner, produire et diffuser des informations dans l'intérêt public, indépendamment de toute ingérence politique, économique, juridique et sociale et en l'absence de menaces pour leur sécurité physique et mentale.",
-  "legend1": "Pas de données disponibles",
+  "subheading": "La liberté de la presse est définie comme la capacité des journalistes, en tant qu’individus et collectifs, à sélectionner, produire et diffuser des informations dans l’intérêt public, indépendamment de toute ingérence politique, économique, juridique et sociale et en l’absence de menaces pour leur sécurité physique et mentale.",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": " ",
   "textSourceDescription": "Source",
   "textSource": "Reporters sans frontières",
   "textNoteDescription": "Note",
-  "textNote": "L'objectif de l'Indice mondial de la liberté de la presse est de comparer le niveau de liberté de la presse dont jouissent les journalistes et les médias. Le classement de l’Indice est basé sur une note allant de 0 à 100 attribuée à chaque pays ou territoire, 100 étant la meilleure note possible (le plus haut niveau possible de liberté de la presse) et 0 le pire.",
+  "textNote": "L'Indice mondial de la liberté de la presse a pour objectif de comparer le niveau de liberté de la presse dont jouissent les journalistes et les médias. Le classement repose sur une note allant de 0 à 100 attribuée à chaque pays ou territoire, 100 étant le meilleur score possible (le niveau de liberté de la presse le plus élevé) et 0 le pire.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://rsf.org/fr/index"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Cén chaoi a bhfuil staid saoirse an phreasa san Eoraip?",
-  "subheading": "Sainmhínítear saoirse na bpreasa mar chumas iriseoirí mar dhaoine aonair agus mar chomhghrúpaí nuacht a roghnú, a tháirgeadh agus a scaipeadh ar mhaithe le leas an phobail neamhspleách ar chur isteach polaitiúil, eacnamaíoch, dlíthiúil agus sóisialta agus in éagmais bagairtí ar a sábháilteacht fhisiciúil agus mheabhrach.",
+  "heading": "Cén chaoi a bhfuil staid na saoirse preasa san Eoraip?",
+  "subheading": "Sainmhínítear saoirse an phreasa mar chumas iriseoirí mar dhaoine aonair agus mar chomhchoiteanna nuacht a roghnú, a tháirgeadh agus a scaipeadh ar mhaithe le leas an phobail neamhspleách ar chur isteach polaitiúil, eacnamaíoch, dlíthiúil agus sóisialta agus in éagmais bagairtí ar a sábháilteacht fhisiciúil agus mheabhrach.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": " ",
   "textSourceDescription": "Foinse",
   "textSource": "Tuairisceoirí gan teorainneacha",
   "textNoteDescription": "Nóta",
-  "textNote": "Is é cuspóir an Innéacs Domhanda um Shaoirse Preasa ná comparáid a dhéanamh idir an leibhéal saoirse preasa atá ag iriseoirí agus ag na meáin. Tá rátálacha an Innéacs bunaithe ar scór ó 0 go 100 a shanntar do gach tír nó críoch, le 100 ar an scór is fearr is féidir (an leibhéal is airde saoirse preasa) agus 0 ar an scór is measa.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://rsf.org/ga/innéacs"
+  "textNote": "Is é cuspóir Innéacs Saoirse Preasa an Domhain ná comparáid a dhéanamh idir an leibhéal saoirse preasa a bhíonn ag iriseoirí agus ag na meáin. Tá rangú an Innéacs bunaithe ar scór idir 0 agus 100 a shanntar do gach tír nó críoch, agus 100 ar an scór is fearr is féidir (an leibhéal is airde is féidir de shaoirse preasa) agus 0 ar an scór is measa.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://rsf.org/en/index"
 }

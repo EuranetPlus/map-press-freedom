@@ -1,12 +1,12 @@
 {
   "heading": "Kakva je situacija sa slobodom tiska u Europi?",
-  "subheading": "Sloboda tiska definirana je kao sposobnost novinara kao pojedinca i kolektiva da odabiru, proizvode i šire vijesti u javnom interesu neovisno o političkom, gospodarskom, pravnom i društvenom uplitanju te bez prijetnji njihovoj fizičkoj i mentalnoj sigurnosti.",
+  "subheading": "Sloboda tiska definirana je kao sposobnost novinara kao pojedinaca i kolektiva da biraju, proizvode i šire vijesti u javnom interesu neovisno o političkom, ekonomskom, pravnom i društvenom uplitanju te bez prijetnji njihovoj fizičkoj i mentalnoj sigurnosti.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": " ",
   "textSourceDescription": "Izvor",
-  "textSource": "Novinari bez granica",
+  "textSource": "Reporteri bez granica",
   "textNoteDescription": "Bilješka",
-  "textNote": "Svrha Svjetskog indeksa slobode medija je usporediti razinu slobode medija koju uživaju novinari i mediji. Poredak Indeksa temelji se na rezultatu u rasponu od 0 do 100 koji se dodjeljuje svakoj zemlji ili teritoriju, pri čemu je 100 najbolji mogući rezultat (najviša moguća razina slobode medija), a 0 najgori.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Svrha Svjetskog indeksa slobode tiska je usporediti razinu slobode tiska koju uživaju novinari i mediji. Rangiranje indeksa temelji se na ocjeni od 0 do 100 koja se dodjeljuje svakoj zemlji ili teritoriju, pri čemu je 100 najbolji mogući rezultat (najviša moguća razina slobode tiska), a 0 najgori.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://rsf.org/en/index"
 }

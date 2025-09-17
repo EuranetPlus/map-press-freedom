@@ -1,12 +1,12 @@
 {
-  "heading": "Hvordan er pressefrihedens situation i Europa?",
+  "heading": "Hvordan er situationen for pressefrihed i Europa?",
   "subheading": "Pressefrihed defineres som journalisters evne som individer og kollektiver til at udvælge, producere og formidle nyheder i offentlighedens interesse uafhængigt af politisk, økonomisk, juridisk og social indblanding og i fravær af trusler mod deres fysiske og mentale sikkerhed.",
-  "legend1": "Ingen tilgængelig data",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": " ",
   "textSourceDescription": "Kilde",
   "textSource": "Journalister uden grænser",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Formålet med World Press Freedom Index er at sammenligne niveauet af pressefrihed, som journalister og medier nyder godt af. Indeksets placeringer er baseret på en score fra 0 til 100, der er tildelt hvert land eller territorium, hvor 100 er den bedst mulige score (det højest mulige niveau af pressefrihed) og 0 det dårligste.",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://rsf.org/da/index"
+  "textNoteDescription": "Note",
+  "textNote": "Formålet med World Press Freedom Index er at sammenligne niveauet af pressefrihed, som journalister og medier nyder godt af. Indeksets rangeringer er baseret på en score fra 0 til 100, der tildeles hvert land eller territorium, hvor 100 er den bedst mulige score (det højest mulige niveau af pressefrihed) og 0 det dårligste.",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://rsf.org/en/index"
 }

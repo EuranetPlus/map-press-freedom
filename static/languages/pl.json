@@ -1,12 +1,12 @@
 {
   "heading": "Jak wygląda sytuacja wolności prasy w Europie?",
-  "subheading": "Wolność prasy definiuje się jako zdolność dziennikarzy jako jednostek i zbiorowości do selekcji, tworzenia i rozpowszechniania wiadomości w interesie publicznym, niezależnie od ingerencji politycznej, ekonomicznej, prawnej i społecznej oraz przy braku zagrożeń dla ich bezpieczeństwa fizycznego i psychicznego.",
+  "subheading": "Wolność prasy definiuje się jako zdolność dziennikarzy, jako jednostek i grup, do wybierania, tworzenia i rozpowszechniania wiadomości w interesie publicznym, niezależnie od ingerencji politycznych, ekonomicznych, prawnych i społecznych, a także w przypadku braku zagrożeń dla ich bezpieczeństwa fizycznego i psychicznego.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": " ",
   "textSourceDescription": "Źródło",
   "textSource": "Reporterzy bez granic",
   "textNoteDescription": "Notatka",
-  "textNote": "Celem Światowego Indeksu Wolności Prasy jest porównanie poziomu wolności prasy, z której korzystają dziennikarze i media. Rankingi Indeksu opierają się na punktacji od 0 do 100 przypisywanej każdemu krajowi lub terytorium, gdzie 100 to najlepszy możliwy wynik (najwyższy możliwy poziom wolności prasy), a 0 to najgorszy.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://rsf.org/en/index"
+  "textNote": "Celem Światowego Indeksu Wolności Prasy jest porównanie poziomu wolności prasy, jakim cieszą się dziennikarze i media. Rankingi Indeksu opierają się na punktacji od 0 do 100, przypisywanej każdemu krajowi lub terytorium, gdzie 100 oznacza najlepszy możliwy wynik (najwyższy możliwy poziom wolności prasy), a 0 – najgorszy.",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://rsf.org/pl/indeks"
 }
