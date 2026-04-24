@@ -1,12 +1,12 @@
 {
-  "heading": "Kāda ir preses brīvības situācija Eiropā?",
+  "heading": "Cik brīva mūsdienās ir Eiropas prese?",
   "subheading": "Preses brīvība ir definēta kā žurnālistu kā indivīdu un kolektīvu spēja atlasīt, radīt un izplatīt ziņas sabiedrības interesēs neatkarīgi no politiskas, ekonomiskas, juridiskas un sociālas iejaukšanās un bez draudiem viņu fiziskajai un garīgajai drošībai.",
   "legend1": "Dati nav pieejami",
   "tooltip1": " ",
   "textSourceDescription": "Avots",
   "textSource": "Žurnālisti bez robežām (2025)",
   "textNoteDescription": "Piezīme",
-  "textNote": "Pasaules preses brīvības indeksa mērķis ir salīdzināt žurnālistu un plašsaziņas līdzekļu preses brīvības līmeni. Indeksa vērtējums ir balstīts uz vērtējumu no 0 līdz 100, kas tiek piešķirts katrai valstij vai teritorijai, kur 100 ir labākais iespējamais vērtējums (augstākais iespējamais preses brīvības līmenis) un 0 – sliktākais.",
+  "textNote": "Preses brīvība ir definēta kā žurnālistu spēja gan individuāli, gan kolektīvi atlasīt, radīt un izplatīt ziņas sabiedrības interesēs, bez politiskas, ekonomiskas, juridiskas un sociālas iejaukšanās un nebaidoties no draudiem viņu fiziskajai vai garīgajai drošībai.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://rsf.org/lv/index"
 }

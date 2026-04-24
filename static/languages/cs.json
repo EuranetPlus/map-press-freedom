@@ -1,12 +1,12 @@
 {
-  "heading": "Jaká je situace se svobodou tisku v Evropě?",
+  "heading": "Jak svobodný je dnes evropský tisk?",
   "subheading": "Svoboda tisku je definována jako schopnost novinářů jako jednotlivců i kolektivů vybírat, produkovat a šířit zprávy ve veřejném zájmu nezávisle na politických, ekonomických, právních a sociálních zásahech a bez ohrožení jejich fyzické a duševní bezpečnosti.",
   "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": " ",
   "textSourceDescription": "Zdroj",
   "textSource": "Reportéři bez hranic (2025)",
   "textNoteDescription": "Poznámka",
-  "textNote": "Účelem Světového indexu svobody tisku je porovnat úroveň svobody tisku, které se těší novináři a média. Hodnocení indexu je založeno na skóre od 0 do 100, které je přiřazeno každé zemi nebo území, přičemž 100 představuje nejlepší možné skóre (nejvyšší možná úroveň svobody tisku) a 0 nejhorší.",
+  "textNote": "Svoboda tisku je definována jako schopnost novinářů, individuálně i kolektivně, vybírat, produkovat a šířit zprávy ve veřejném zájmu, bez politického, ekonomického, právního a sociálního vměšování a bez obav z ohrožení jejich fyzické nebo duševní bezpečnosti.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://rsf.org/en/index"
 }
